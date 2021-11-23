@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.17.0](https://www.github.com/googleapis/java-spanner/compare/v6.16.0...v6.17.0) (2021-11-23)
+
+
+### Features
+
+* NaNs in Mutations are equal and have the same hashcode ([#1554](https://www.github.com/googleapis/java-spanner/issues/1554)) ([91a18fc](https://www.github.com/googleapis/java-spanner/commit/91a18fc09a2034959758d38f1278dc93128c7622))
+
 ## [6.16.0](https://www.github.com/googleapis/java-spanner/compare/v6.15.2...v6.16.0) (2021-11-15)
 
 
